@@ -1,0 +1,66 @@
+.Section2{
+    max-width: 25%;
+    margin: 0 auto;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Section2 h2 {
+    margin: 0px;
+}
+
+@media (max-width: 1200px) {
+   .Section2 p{
+      width: 25ch;
+      margin: 0 auto;
+      margin-top: 13px;
+   } 
+}
+
+@media (max-width: 1000px) {
+    .Section2{
+        max-width: 30%;
+    }
+ }
+ @media (max-width: 900px) {
+    .Section2{
+        max-width: 35%;
+    }
+ }
+ @media (max-width: 800px) {
+    .Section2{
+        max-width: 40%;
+    }
+ }
+ @media (max-width: 650px) {
+    .Section2{
+        max-width: 45%;
+    }
+ }
+ @media (max-width: 600px) {
+    .Section2{
+        max-width: 53%;
+    }
+ }
+ @media (max-width: 500px) {
+    .Section2{
+        max-width: 60%;
+    }
+ }
+ @media (max-width: 450px) {
+    .Section2{
+        max-width: 67%;
+    }
+ }
+ @media (max-width: 400px) {
+    .Section2{
+        max-width: 75%;
+    }
+ }
+ @media (max-width: 350px) {
+    .Section2{
+        max-width: 90%;
+    }
+ }
+

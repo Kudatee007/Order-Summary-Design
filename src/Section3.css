@@ -1,0 +1,74 @@
+.Section3{
+    
+    background-color: white;
+    height: 68px;
+    max-width: 25%;
+    margin: 0 auto;
+   
+    
+}
+.Section33{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(229, 226, 226);
+    max-width: 75%;
+    margin: 0 auto;
+    border-radius: 15px;
+    height: 60px;
+}
+a{
+    padding-left: 30px;
+}
+.smallDiv{
+    max-width: 30%;
+}
+.Span1{
+    font-weight: lighter;
+}
+
+@media (max-width: 1000px) {
+    .Section3{
+        max-width: 30%;
+    }
+ }
+ @media (max-width: 900px) {
+    .Section3{
+        max-width: 35%;
+    }
+ }
+ @media (max-width: 800px) {
+    .Section3{
+        max-width: 40%;
+    }
+ }
+ @media (max-width: 650px) {
+    .Section3{
+        max-width: 45%;
+    }
+ }
+ @media (max-width: 600px) {
+    .Section3{
+        max-width: 53%;
+    }
+ }
+ @media (max-width: 500px) {
+    .Section3{
+        max-width: 60%;
+    }
+ }
+ @media (max-width: 450px) {
+    .Section3{
+        max-width: 67%;
+    }
+ }
+ @media (max-width: 400px) {
+    .Section3{
+        max-width: 75%;
+    }
+ }
+ @media (max-width: 350px) {
+    .Section3{
+        max-width: 90%;
+    }
+ }

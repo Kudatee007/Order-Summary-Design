@@ -1,0 +1,66 @@
+
+.img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: 50px;
+    width: 100%;
+    
+}
+
+.Section1{
+    padding-top: 40px;
+    max-width: 25%;
+    margin: 0 auto;
+   
+}
+@media (max-width: 1000px) {
+   .Section1{
+    max-width: 30%;
+   }
+ }
+ @media (max-width: 900px) {
+    .Section1{
+     max-width: 35%;
+    }
+  }
+  @media (max-width: 800px) {
+    .Section1{
+     max-width: 40%;
+    }
+  }
+  @media (max-width: 650px) {
+    .Section1{
+     max-width: 45%;
+    }
+  }
+  @media (max-width: 650px) {
+    .Section1{
+     max-width: 45%;
+    }
+  }
+  @media (max-width: 600px) {
+    .Section1{
+     max-width: 53%;
+    }
+  }
+  @media (max-width: 500px) {
+    .Section1{
+     max-width: 60%;
+    }
+  }
+  @media (max-width: 450px) {
+    .Section1{
+     max-width: 67%;
+    }
+  }
+  @media (max-width: 400px) {
+    .Section1{
+     max-width: 75%;
+    }
+  }
+  @media (max-width: 350px) {
+    .Section1{
+        max-width: 90%;
+    }
+ }
+
